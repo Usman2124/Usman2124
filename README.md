@@ -55,5 +55,5 @@ Lahore, Pakistan
 
 - **Email:** [usmanasim295@gmail.com](mailto:usmanasim295@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/muhammad-usman](https://www.linkedin.com/in/osman-asim-949264300/)  
-- **GitHub:** [github.com/usman-asim](https://github.com/usman-asim)  
+- **GitHub:** [github.com/Usman2124](https://github.com/Usman2124)  
 - **Portfolio:** [https://usman-asim.netlify.app/]
