@@ -7,7 +7,7 @@ Building scalable, high-performance web applications and backend systems with en
 
 ## About Me
 
-I am a **Full Stack Developer** with 1 plus year of experience in building scalable, high-performance web applications using the **MERN** stack. I specialize in designing and developing backend systems, crafting user-centric interfaces, and ensuring seamless integrations. With a strong understanding of system architecture, API design, database management, and cloud deployments, I’m committed to delivering reliable solutions aligned with business goals.
+I am a **Full Stack Developer** with over 1 plus year of experience in building scalable, high-performance web applications using the **MERN** stack. I specialize in designing and developing backend systems, crafting user-centric interfaces, and ensuring seamless integrations. With a strong understanding of system architecture, API design, database management, and cloud deployments, I’m committed to delivering reliable solutions aligned with business goals.
 
 I have hands-on experience in both **frontend** and **backend development**, and I’m capable of working independently or as part of cross-functional teams to take projects from concept to production.
 
