@@ -1,6 +1,6 @@
 # Muhammad Usman
 
-**Full Stack Developer**  
+**Full Stack Engineer**  
 Building scalable, high-performance web applications and backend systems with end-to-end ownership and a strong focus on performance optimization.
 
 ---
